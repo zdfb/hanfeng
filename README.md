@@ -2,9 +2,10 @@
 使用YOLOV3对特检所焊缝进行检测，并制作了可视化界面。使用opencv读取训练后的.onnx文件，输出检测后的结果及缺陷坐标与类别。
 ## 输出检测demo
 <img src="result.png">
-## 预训练模型
 
-+ .onnx格式的预训练模型如下。<br>
+## 预训练模型<br>
+
+.onnx格式的预训练模型如下。<br>
 >- 链接：https://pan.baidu.com/s/1TAUbFUjmQ_iajZCGqbfWtQ
 >- 提取码：jmwz
 
