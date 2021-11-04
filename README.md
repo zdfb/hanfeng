@@ -3,7 +3,8 @@
 ## 输出检测demo
 <img src="result.png">
 ## 预训练模型
-+ onnx格式的预训练模型如下。<br>
+
++ .onnx格式的预训练模型如下。<br>
 >- 链接：https://pan.baidu.com/s/1TAUbFUjmQ_iajZCGqbfWtQ
 >- 提取码：jmwz
 
