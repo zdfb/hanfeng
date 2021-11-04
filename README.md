@@ -3,9 +3,9 @@
 ## 输出检测demo
 <img src="result.png">
 ## 预训练模型
-+ .onnx格式的预训练模型如下。<br>
->-链接：https://pan.baidu.com/s/1TAUbFUjmQ_iajZCGqbfWtQ
->提取码：jmwz
++ onnx格式的预训练模型如下。<br>
+>- 链接：https://pan.baidu.com/s/1TAUbFUjmQ_iajZCGqbfWtQ
+>- 提取码：jmwz
 
 ## 使用方法
 1. 将下载的预训练权重放在model_data文件夹下。
